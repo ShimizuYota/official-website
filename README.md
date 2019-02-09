@@ -1,7 +1,15 @@
 白松研究室 昔の公式サイト
 ---
 
+# official-website (old-website)
 白松研究室の昔のホームページのデザインです．  
+研究室誕生から2018年10月頃までこのデザインでした．  
+
+# Note
 masterにmergeしないでください．
 
-研究室誕生から2018年10月頃までこのデザインでした．
+# Licence
+- The MIT License (MIT)
+
+# Authors
+- 成瀬 雅人
