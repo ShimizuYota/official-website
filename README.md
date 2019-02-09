@@ -1,15 +1,16 @@
-白松研究室 昔の公式サイト
+srmtlab/official-website(old-website)
 ---
-
-# official-website (old-website)
 白松研究室の昔のホームページのデザインです．  
 研究室誕生から2018年10月頃までこのデザインでした．  
 
-# Note
+Note
+---
 masterにmergeしないでください．
 
-# Licence
+Licence
+---
 - The MIT License (MIT)
 
-# Authors
+Authors
+---
 - 成瀬 雅人
