@@ -13,4 +13,4 @@ Licence
 
 Authors
 ---
-- 成瀬 雅人
+- 白松研究室 HP係
