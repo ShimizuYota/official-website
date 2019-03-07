@@ -9,7 +9,7 @@ masterにmergeしないでください．
 
 Licence
 ---
-- The MIT License (MIT)
+- Copyright 2015 白松研究室 All Rights Reserved.
 
 Authors
 ---
